@@ -48,7 +48,7 @@ Managing the loose wholefoods department saw me take on numerous roles and respo
 <br>
 
 <div align="center">
-<p><b>Teesside University BA Games Design&nbsp;&nbsp;(2.1)(2016 Graduation)</b><br></p></div>
+<p><b>Teesside University BA Games Design&nbsp;&nbsp;(2.1&nbsp;<i>(2016 Graduation)</i></b><br></p></div>
 
 As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and scripting. Giving me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. A highlight includes being junior and technical lead to a team of around ten. The role saw me collaborating with outsourcers from various disciplines and built my resilience to pressure.
 
@@ -57,4 +57,4 @@ As a technical designer, I am not only able to conceptualise but also develop pr
 <div align="center">
 <p><b>Interests and hobbies include</b><br></p></div>
 
-As well as yoga, home fitness and wild swimming I enjoy graphic design, cooking and sewing.
+As well as yoga, home fitness and wild swimming I enjoy graphic design, cooking and sewing. I also have large comic and vinyl collections.
